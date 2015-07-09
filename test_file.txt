@@ -1,0 +1,1 @@
+This is a new text file to show you how Git works.
